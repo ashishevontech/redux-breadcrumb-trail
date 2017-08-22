@@ -2,5 +2,4 @@
 coverage/
 example/build/
 node_modules/
-dist/
 npm-debug.log
